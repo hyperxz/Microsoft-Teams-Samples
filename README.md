@@ -1,10 +1,10 @@
-# Microsoft Teams Samples
+# Microsoft Teams Samples 
 [![Sample code build status](https://github.com/OfficeDev/Microsoft-Teams-Samples/actions/workflows/build-complete-samples.yml/badge.svg)](https://github.com/OfficeDev/Microsoft-Teams-Samples/actions/workflows/build-complete-samples.yml)
 ##### [Click here to find out what's new with Microsoft Teams Platform](https://docs.microsoft.com/microsoftteams/platform/whats-new)
 
 >NOTE: These samples are designed to help understand Microsoft Teams platform capabilities and scenarios. If you are looking for production ready apps then please visit [App Templates for Microsoft Teams](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates)
 
-# Sample lists
+# Sample lists   
 
 1. [Ready to try sample manifests](#try-it-yourself---experience-the-apps-in-your-microsoft-teams-client)
 1. [Teams Toolkit samples](#samples-built-using-new-generation-of-teams-development-tool---teams-toolkit)
@@ -24,7 +24,7 @@ The [Teams Toolkit](https://marketplace.visualstudio.com/items?itemName=TeamsDev
 
 ## [Getting Started - Samples and Tutorials](https://docs.microsoft.com/microsoftteams/platform/tutorials/get-started-dotnet-app-studio)
 
-|    | Sample Name        | Description                                                                                                                | C#    | TypeScript | Manifest  
+|    | Sample Name        | Description aa                                                                                                                | C#    | TypeScript | Manifest  
 |:--:|:-------------------|:---------------------------------------------------------------------------------------------------------------------------|:--------|:-------------|:-------------|
 |1|Hello World            | Microsoft Teams hello world sample app.                                           |[View][app-hello-world#cs]     |[View][app-hello-world#ts]|[View](/samples/app-hello-world/csharp/demo-manifest/app-hello-world.zip)
 
